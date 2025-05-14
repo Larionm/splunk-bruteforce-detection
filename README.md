@@ -44,5 +44,15 @@ index=main sourcetype=csv EventID=4625
 
 ---
 
+## 🖼️ Screenshots
+
+- **Splunk Login Page:** Shows initial access to the platform ![image](https://github.com/user-attachments/assets/717516d2-af3f-43cc-8563-c0b086655a68)
+
+- **Splunk Dashboard:** Confirming successful setup ![image](https://github.com/user-attachments/assets/543b5753-de28-4e8b-8789-26071ecdbe49)
+
+- **Query Results:** Detection of brute-force attempts by user `larion.morris` ![image](https://github.com/user-attachments/assets/4471550a-ff5c-4f01-8315-4348da252de5)
+
+
+
 *Created by Larion Morris as part of a cybersecurity portfolio to demonstrate hands-on detection capabilities using Splunk.*
 
